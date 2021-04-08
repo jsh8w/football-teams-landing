@@ -20,10 +20,13 @@ Teams - Football Widget **does not** collect or store any personally identifiabl
 ## Football Data Service
 Teams - Football Widget uses [Football-Data.org API Services](https://www.football-data.org/) to request Football data. Therefore, by using the service, you are agreeing to be bound by the [Terms of Service](https://www.football-data.org/about) and [Privacy Policy](https://www.football-data.org/about) when engaging football content through the app.
 
+## Premium Purchases
+If you sign-up for Teams Premium, either via Subscription or In-App Purchase, your billing information, address, and name are all maintained by the Apple App Store and are not visible to me. I will simply get information about whether or not you have purchased a subscription/in-app purchase, the term you signed up for and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider [RevenueCat](https://www.revenuecat.com/dpa).
+
 ## Changes to Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new or updated Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 ## Contact Me
 Please do not hesitate to contact me if you have any questions regarding this privacy policy or the service.
 
-#### Last Updated: 12th February, 2021, 21:42 GMT
+#### Last Updated: 8th April, 2021, 21:29 GMT
